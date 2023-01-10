@@ -1,0 +1,11 @@
+mods/
+saves/
+hei_bookmarks.ini
+config/agricraft/json/
+config/biomesoplenty/biomes/
+journeymap/
+logs/
+crash-reports/
+screenshots/
+config/enderio/recipes/*.pdf
+config/enderio/recipes/examples/
