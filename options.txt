@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:120
 fboEnable:true
-difficulty:1
+difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -184,7 +184,7 @@ key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_Open Powered Vehicle Inventory:34
 key_Open Module Manager:35
-key_Open Pre Launch Checklist GUI:25
+key_Open Pre Launch Checklist GUI:0
 key_Open Portable NASA Workbench GUI:24
 key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
@@ -225,7 +225,7 @@ key_enderio.keybind.inventory:23
 key_enderio.keybind.dsu:0
 key_enderio.keybind.glidertoggle:34
 key_enderio.keybind.soundlocator:0
-key_enderio.keybind.nightvision:25
+key_enderio.keybind.nightvision:0
 key_enderio.keybind.gogglesofrevealing:0
 key_enderio.keybind.stepassist:0
 key_enderio.keybind.speed:0
